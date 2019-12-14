@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ComboBoxApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="translate_text_page_title">Translate Text</string>
+    <string name="translate_image_page_title">Translate Image</string>
+    <string name="scan_doc_page_title">Scan Document</string>
+    <string name="scan_doc_action">SCAN</string>
+    <string name="search_translate_text">Type what you want translated</string>
+    <string name="search_translate_img">Search for images to translate</string>
+    <string name="search_scan_doc">Search</string>
+    <string name="scan_doc_txt_noscan">You have no scanned documents</string>
+    <string name="select_img">Select Image to translate</string>
+    <string name="wait">Translating text...</string>
+
+    <string-array name="language">
+        <item>Arabic</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>
